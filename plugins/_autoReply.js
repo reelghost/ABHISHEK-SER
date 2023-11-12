@@ -7,7 +7,7 @@ export async function all(m) {
         
   Hallo @${m.sender.split('@')[0]} 
   You Can Rent The Bot To Join A Group Or Contact Owner 
-  M0ore Info Click On The Button
+  More Info Click On The Button
 `.trim(), igfg, null, [['Rent', '/buyprem']] , m, { mentions: [m.sender] })
     m.react('🎯')
   } 

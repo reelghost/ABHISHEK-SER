@@ -50,12 +50,12 @@ global.APIKeys = { // APIKey Here
 global.botname = 'iha'
 global.premium = 'true'
 global.packname = 'iha🎯master' 
-global.author = 'ABHISHEK SURESH' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/abhishek_ser\n' 
-global.dygp = 'https://chat.whatsapp.com/BOLb0ICN3sAJ5dloRBw5VD'
+global.author = 'IHA' 
+global.igfg = '▢ Am on Tiktok\nhttps://www.tiktok.com/@lucychacha900\n' 
+global.dygp = 'https://wa.me/254773216377?text=Hello%20there!'
 global.fgsc = 'https://github.com/reelghost/ABHISHEK-SER' 
-global.fgyt = 'https://youtube.com/@comedymelodych8468'
-global.fgpyp = 'https://youtube.com/@comedymelodych8468'
+global.fgyt = 'https://youtube.com/@iherr'
+global.fgpyp = 'https://youtube.com/@iherr'
 global.fglog = 'https://replicate.delivery/pbxt/QbP6Fh3ZXwKON9SCB70ERGwwgeeSbztwKIOIzhUeXFkwnFHiA/out.png' 
 
 //imagen

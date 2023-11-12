@@ -1,17 +1,17 @@
 let handler = async m => m.reply(`
 
-≡  *𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝙴𝚁*   GROUPS
-▢ Join Public Bot Group And Support
-https://chat.whatsapp.com/BOLb0ICN3sAJ5dloRBw5VD
+≡  *iha*   GROUPS
+▢ Message for support
+https://chat.whatsapp.com/
 ─────────────
 ▢ *Owner Telegram*
-https://t.me/Abhishek_Ser
+soon
  
 ▢ *YouTube*
-https://youtube.com/@comedymelodych8468
+https://www.youtube.com/channel/UCyR5-Tq9N1GTnJb4683IbGg
 
 ▢ *Instagram*
-https://instagram.com/abhishek_ser
+https://instagram.com/iha
 
 `.trim())
 handler.help = ['gpabhi']

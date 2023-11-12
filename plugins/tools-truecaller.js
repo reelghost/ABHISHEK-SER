@@ -16,7 +16,7 @@ let handler = async (m, { conn, text }) => {
     console.log('JSON response:', json);
 
     
-    json.creator = 'ABHISHEK SURESH';
+    json.creator = 'MASTER';
 
     let milf = '';
     for (let prop in json) {
